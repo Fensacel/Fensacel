@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+I'm+Fachri;A+Vocational+Student+(SMK+RPL);Focused+on+Web+Development;Exploring+Laravel+%26+Next.js&font=Fira+Code&center=true&width=500&height=50&color=38B2AC&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+I'm+Fachri;Software+Engineering+Student;Focused+on+Web+Development;Exploring+Laravel+%26+Next.js&font=Fira+Code&center=true&width=500&height=50&color=38B2AC&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,10 +9,10 @@
     <td width="60%" align="left" valign="center">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>Saya adalah siswa <b>SMK jurusan Rekayasa Perangkat Lunak (RPL)</b> yang antusias membangun solusi digital.</li>
-        <li>Saat ini fokus menjembatani backend yang kuat dengan <b>Laravel (PHP)</b> dan frontend modern menggunakan <b>Next.js & TypeScript</b>.</li>
-        <li>🔭 Sedang mengerjakan proyek aplikasi manajemen menggunakan <b>FilamentPHP</b> dan menyempurnakan portofolio pribadi.</li>
-        <li>🌱 Selalu tertarik mempelajari arsitektur software dan praktik kode yang bersih (clean code).</li>
+        <li>I am a <b>Vocational High School student</b> majoring in <b>Software Engineering</b>, passionate about building digital solutions.</li>
+        <li>Currently focused on bridging robust backends with <b>Laravel (PHP)</b> and modern frontends using <b>Next.js & TypeScript</b>.</li>
+        <li>🔭 I’m currently working on a management system using <b>FilamentPHP</b> and refining my personal portfolio.</li>
+        <li>🌱 Always eager to learn about software architecture and <b>Clean Code</b> practices.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -70,7 +70,7 @@
 
 <div align="center">
   <h3>📫 Let's Connect!</h3>
-  <p>Silakan hubungi saya untuk kolaborasi atau sekadar berdiskusi tentang teknologi.</p>
+  <p>Feel free to reach out for collaborations or just a chat about technology.</p>
   
   <a href="https://www.linkedin.com/in/fachri-mufidan-9309a5369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
