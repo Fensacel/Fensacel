@@ -72,10 +72,10 @@
   <h3>📫 Let's Connect!</h3>
   <p>Silakan hubungi saya untuk kolaborasi atau sekadar berdiskusi tentang teknologi.</p>
   
-  <a href="https://www.linkedin.com/in/m-fachri-mufidan" target="_blank">
+  <a href="https://www.linkedin.com/in/fachri-mufidan-9309a5369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:email@kamu.com">
+  <a href="mailto:fachrimufidan26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
