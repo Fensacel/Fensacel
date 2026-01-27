@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZicDR5YWZxdTgza3c3MnJndjhldGszZnhjNW4yYXdiOGlsazR1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zGzZQUqdZZM7YQb1m/giphy.gif" width="90%" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
